@@ -6,7 +6,7 @@
 }
 
 main{
-    background-image: url("./Img/Img_fundo.png");
+    background-image: url("./Img_fundo.png");
     height: 100vh;
     display:flex;
     justify-content: space-between;
